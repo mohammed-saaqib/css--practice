@@ -1,0 +1,12 @@
+* {color: red;
+}
+div {
+    color: black;
+}
+# {
+    color: aqua;
+}
+.center {
+    text-align: center;
+    color: brown;
+}
