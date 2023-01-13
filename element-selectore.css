@@ -1,0 +1,33 @@
+/* universal selector*/
+*{
+    text-align: center;
+    color: rgb(0, 195, 255);
+    front-family: "sego ui", tahoma, geneva , verdana , sans-serif;
+
+}
+/* p element selector */
+p {
+    background-color: blue;
+    front-size: large;
+    front-faimly:'times new roman', times, serif;
+}
+/* div element delecter */
+ div{
+    background-color: aqua;
+}
+ /* element selector*/
+ h1 {color: blue;
+    background-color: yellow;
+    border: 1px solid black;
+   }
+   /*id selector*/
+   #uniqueheading {
+    color: red;
+    background-color: aqua;
+    border: 2px solid black;
+}
+/* class selector*/
+.center{
+    text-align: center;
+    color: red;
+}
